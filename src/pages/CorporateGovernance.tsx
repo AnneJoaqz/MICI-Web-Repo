@@ -153,7 +153,7 @@ const CorporateGovernance = () => {
         {
           id: "2025-1",
           name: "2025 MICI Annual Corporate Governance Report",
-          fileName: "2025 MICI Annual Corporate Governance Report.pdf",
+          fileName: "2025/2025 MICI Annual Corporate Governance Report.pdf",
           fileType: "PDF",
           fileSize: "969 KB",
         },
