@@ -150,16 +150,65 @@ const CorporateGovernance = () => {
       content:
         "Download our latest corporate governance materials for 2025, containing current organizational details, compliance measures, and policy updates.",
       documents: [
-        {
-          id: "2025-1",
-          name: "2025 MICI Annual Corporate Governance Report",
-          fileName: "2025/2025 MICI Annual Corporate Governance Report.pdf",
-          fileType: "PDF",
-          fileSize: "969 KB",
-        },
-      ],
+         {
+    id: "2025-1",
+    name: "2025 MICI Annual Corporate Governance Report",
+    fileName: "2025/2025 MICI Annual Corporate Governance Report.pdf",
+    fileType: "PDF",
+    fileSize: "969 KB",
+  },
+  {
+    id: "2025-2",
+    name: "2025 MICI Audited Financial Statement",
+    fileName: "2025/2025 MICI Audited Financial Statement.pdf",
+    fileType: "PDF",
+    fileSize: "884 KB",
+  },
+  {
+    id: "2025-3",
+    name: "2025 MICI Corporate Governance Committee Charter",
+    fileName: "2025/2025 MICI CORPORATE-GOVERNANCE-COMMITEE-CHARTER.pdf",
+    fileType: "PDF",
+    fileSize: "227 KB",
+  },
+  {
+    id: "2025-4",
+    name: "2025 MICI Employee Handbook and Code of Business Conduct & Ethics",
+    fileName: "2025/2025 MICI EMPLOYEE-HANDBOOK-AND-CODE-OF-BUSINESS-CONDUCT-ETHICS.pdf",
+    fileType: "PDF",
+    fileSize: "426 KB",
+  },
+  {
+    id: "2025-5",
+    name: "2025 MICI GIS Period Covered August 4, 2025",
+    fileName: "2025/2025 MICI GIS Period Covered August 4, 2025.pdf",
+    fileType: "PDF",
+    fileSize: "4.34 MB",
+  },
+  {
+    id: "2025-6",
+    name: "2025 MICI Sustainability Report",
+    fileName: "2025/2025 MICI_Sustainability Report.pdf",
+    fileType: "PDF",
+    fileSize: "159 KB",
+  },
+  {
+    id: "2025-7",
+    name: "Metropolitan Article of Incorporation",
+    fileName: "2025/METROPOLITAN ARTICLE OF INCORPORATION.pdf",
+    fileType: "PDF",
+    fileSize: "4.43 MB",
+  },
+  {
+    id: "2025-8",
+    name: "Metropolitan By-Laws",
+    fileName: "2025/METROPOLITAN-BY-LAWS.pdf",
+    fileType: "PDF",
+    fileSize: "8.35 MB",
     },
-  ];
+  ],
+},
+];
 
   const toggleItem = (id) => {
     setOpenItem(openItem === id ? null : id);
