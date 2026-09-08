@@ -97,7 +97,7 @@ const About = () => {
         >
           <motion.div variants={itemVariants} className="space-y-6">
             <h3 className="text-2xl md:text-3xl font-bold text-accent mb-4">
-              92 Years of Trust & Excellence
+              93 Years of Trust & Excellence
             </h3>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
