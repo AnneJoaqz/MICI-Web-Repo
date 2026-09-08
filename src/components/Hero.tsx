@@ -85,7 +85,7 @@ const Hero = () => {
             transition={{ delay: 0.6, duration: 0.8 }}
             className="text-lg md:text-xl text-primary-foreground/90 mb-8 max-w-2xl mx-auto leading-relaxed"
           >
-            With 92 years of proven expertise, Metropolitan Insurance Company
+            With 93 years of proven expertise, Metropolitan Insurance Company
             continues to provide comprehensive protection and security to
             individuals and businesses across the Philippines.
           </motion.p>
@@ -123,7 +123,7 @@ const Hero = () => {
             className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto"
           >
             {[
-              { number: "92", label: "Years of Excellence" },
+              { number: "93", label: "Years of Excellence" },
               { number: "1000+", label: "Trusted Clients" },
               { number: "24/7", label: "Customer Support" },
             ].map((stat, index) => (
