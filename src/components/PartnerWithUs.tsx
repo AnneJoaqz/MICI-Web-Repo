@@ -18,7 +18,7 @@ const PartnerWithUs = () => {
       icon: Clock,
       title: "TRUSTED THROUGH TIME",
       description: "MICI has been engaged in insurance since 1933. It has been trusted by individuals and businesses from different industries such as hospitality, education, and telecommunications industry, among others.",
-      statValue: 92,
+      statValue: 93,
       statLabel: "Years of Experience",
       statSuffix: "+",
       delay: 0
