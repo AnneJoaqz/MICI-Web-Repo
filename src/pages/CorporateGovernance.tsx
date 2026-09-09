@@ -215,8 +215,16 @@ const CorporateGovernance = () => {
 },
   ],
 },
+{
+  id: 5,
+  title: "2026",
+  content:
+    "2026 corporate governance materials will be uploaded as they become available.",
+  documents: [
 ];
-
+},
+];
+  
   const toggleItem = (id) => {
     setOpenItem(openItem === id ? null : id);
   };
