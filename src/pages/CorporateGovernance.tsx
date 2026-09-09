@@ -206,6 +206,13 @@ const CorporateGovernance = () => {
     fileType: "PDF",
     fileSize: "8.35 MB",
     },
+    {
+  id: "2025-9",
+  name: "2025 MICI Annual Stockholders' Meeting",
+  fileName: "2025/2025 MICI_ANNUAL STOCKHOLDERS MEETING.pdf",
+  fileType: "PDF",
+  fileSize: "1,861 KB",
+},
   ],
 },
 ];
