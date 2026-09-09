@@ -220,8 +220,7 @@ const CorporateGovernance = () => {
   title: "2026",
   content:
     "2026 corporate governance materials will be uploaded as they become available.",
-  documents: [
-];
+  documents: [],
 },
 ];
   
