@@ -86,6 +86,7 @@ const Header = () => {
     { name: "Products", href: "/#services" },
     { name: "Industries", href: "/#industries" },
     { name: "Corporate Governance", href: "/corporate-governance" },
+    { name: "MICI Agents", href: "/mici-agents" },
     { name: "Contact", href: "/#contact" },
     { name: "Career", href: "/career" },
   ];
