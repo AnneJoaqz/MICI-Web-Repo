@@ -12,6 +12,7 @@ import PrivacyNotification from "./pages/PrivacyNotification";
 import DataPrivacyPolicy from "./pages/DataPrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 import Career from "./pages/Career";
+import MiciAgents from "./pages/MiciAgents";
 
 const queryClient = new QueryClient();
 
@@ -43,6 +44,8 @@ const App = () => (
           {/* Terms of Service */}
           <Route path="/terms-of-service" element={<TermsOfService />} />
 
+          <Route path="/mici-agents" element={<MiciAgents />} />
+          
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
