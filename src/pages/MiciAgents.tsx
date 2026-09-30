@@ -56,10 +56,8 @@ const MiciAgents = () => {
 
               <div className="border-t pt-6">
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  The current list of Metropolitan Insurance Company, Inc.
-                  licensed agents will be made available here for reference
-                  and verification.
-                </p>
+  The current list of MICI licensed agents is available below for reference and verification.
+</p>
 
                 <div className="bg-muted/40 rounded-xl p-6 text-center">
                   <FileText className="w-10 h-10 mx-auto mb-3 text-accent" />
