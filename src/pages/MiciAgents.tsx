@@ -65,7 +65,7 @@ const MiciAgents = () => {
                     Licensed Agents List
                   </p>
                   <a
-                    href="/MICI%20AGENTS%20As%20of%20October%2030%2C%202026.pdf"
+                    href="/MICI%20AGENTS%20As%20of%2011-30-2026.pdf"
                     download
                     className="inline-flex items-center gap-2 bg-accent/10 hover:bg-accent/20 text-accent-foreground font-semibold px-5 py-3 rounded-xl transition"
                   >
